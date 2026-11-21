@@ -1,2 +1,3 @@
 # Project documents
-Proposal and project description for Burnwise (NASA Space Apps Cairo 2026, Team Foul & Fire).
+- Burnwise_Proposal.pdf: full proposal (problem, method, validation, limitations)
+- Burnwise_Demo_Slides.pdf: demo slides for NASA Space Apps Cairo 2026
