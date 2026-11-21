@@ -3,6 +3,13 @@
 A harmonized burning-activity calendar for Egypt, built from NASA FIRMS satellite fire data.
 Project of **Team Foul & Fire** for **NASA Space Apps Cairo 2026** (challenge: *Harmonization of MODIS and VIIRS Hot Spots*).
 
+## Links & Demos
+
+- **Live Web App (Server):** [Open Live App](https://new-burnwise-4tvx.vercel.app/)
+- **App Walkthrough / Demo Video:** [Watch App Demo](https://drive.google.com/file/d/1EE9qZfw9YZ1pTFKK1D-8JcT51E600CeC/view)
+- **YouTube Project Explanation:** [Watch Explanation on YouTube](https://youtu.be/G6_1jqzwgX8?si=EZz9ue8OC_SfhY0P)
+
+
 ## The problem
 
 NASA satellites have detected active-fire hotspots for 20+ years with two sensors: **MODIS** (since 2000, 1 km) and **VIIRS** (since 2012, 375 m). Their counts cannot be compared directly, because the sensors differ in resolution, sensitivity and observation schedule. VIIRS records far more small fires, so simply merging the two files creates an artificial jump in 2013 (+1,341% in our Egypt data, see the proposal). Fire managers therefore lack one consistent history of when and where burning happens.
